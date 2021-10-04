@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lebon.albin@gmail.com
+	name = Albin Le Bon
